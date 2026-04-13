@@ -1,5 +1,7 @@
 # Sort Student Records — Assign Roll Numbers
 
+![C](https://img.shields.io/badge/Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 A simple yet powerful CLI program to sort student records.
 
 ## Features
